@@ -3,7 +3,7 @@
 
 - I’m currently studying Web Development and Design at university. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
 
-- I’m currently learning about all aspects of front-end (JS, HTML5, CSS) slowly moving into the frameworks, libraries(TS, React, Vue) **JavaScript, CSS, HTML5, slowly moving to TypeScript. React, React Native, and Vue.**
+- I’m currently learning about all aspects of front-end (JS, HTML5, CSS) slowly moving into the frameworks and  libraries (TS, React, Vue) **JavaScript, CSS, HTML5, slowly moving to TypeScript. React, React Native, and Vue.**
 
 - I’m looking to collaborate on front end sided projects to help with my progress and give me experience. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
 
