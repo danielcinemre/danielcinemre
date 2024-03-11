@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel</h1>
 <h3 align="center">A passionate student currently studying to become a frontend developer, located in Edinburgh.</h3>
 
-- I’m currently studying Web Development and Design at university. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
+- I’m currently studying Web Development and Design at university.
 
 - I’m currently learning about all aspects of front-end slowly moving into the frameworks and libraries. **JavaScript, CSS, HTML5, slowly moving to TypeScript. React, React Native, and Vue.**
 
