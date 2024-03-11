@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at: (future portfolio webs [N/A (Future Project Portfolio Link Here)](N/A (Future Project Portfolio Link Here))
 
-- N/A [N/A](N/A)
-
 - Feel free to ask me about my university experience and how i am doing my self studying aspiring to become a front end web developer. **N/A**
 
 - Here is the easiest way to contact me: **danielcinemre2@gmail.com**
