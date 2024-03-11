@@ -5,9 +5,9 @@
 
 - I’m currently learning about all aspects of front-end slowly moving into the frameworks and libraries. **JavaScript, CSS, HTML5, slowly moving to TypeScript. React, React Native, and Vue.**
 
-- I’m looking to collaborate on front end sided projects to help with my progress and give me experience. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
+- I’m looking to collaborate on front end sided projects to help with my progress and give me valuable experience.
 
-- I’m looking for advice on applying for front-end jobs, and easiest way to go about finding applications for them. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
+- I’m looking for advice on applying for front-end jobs, and easiest way to go about finding applications for them, and any useful information about the industry.
 
 - All of my projects are available at: (future portfolio webs [N/A (Future Project Portfolio Link Here)](N/A (Future Project Portfolio Link Here))
 
