@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Daniel</h1>
-<h3 align="center">A passionate student currently studying to become a frontend developer, currently located in Edinburgh.</h3>
+<h3 align="center">A passionate student studying to become a frontend developer, currently located in Edinburgh.</h3>
 
 - I’m currently studying Web Development and Design at university and have prevously studied Software Engineering and Cyber Security at lower levels.
 
