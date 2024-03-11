@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Daniel</h1>
 <h3 align="center">A passionate student currently studying to become a frontend developer, located in Edinburgh.</h3>
 
-- I’m currently studying at Web Development at university. [N/Auniversity (Future Projects Here)](N/A (Future Projects Link Here))
+- I’m currently studying at Web Development at university. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
 
 - I’m currently learning about all aspects of front-end (JS, HTML5, CSS) slowly moving into the frameworks, libraries(TS, React, Vue) **JavaScript, CSS, HTML5, slowly moving to TypeScript. React, React Native, and Vue.**
 
@@ -24,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/n/a linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n/a linkedin" height="30" width="40" /></a>
-<a href="https://kaggle.com/l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="l" height="30" width="40" /></a>
 <a href="https://instagram.com/danielcinemree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielcinemree" height="30" width="40" /></a>
 </p>
 
