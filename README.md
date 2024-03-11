@@ -15,7 +15,7 @@
 
 - Know about my experiences and about my past education: [N/A (Future CV Link Here)](N/A (Future CV Link Here))
 
-- Fun fact: **I have lived in various countries such as, England, Türkiye and now Scotland!**
+- Fun fact: **I have lived in various countries such as, England, Türkiye and now Scotland, also having dual nationality, (British and Turkish)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
