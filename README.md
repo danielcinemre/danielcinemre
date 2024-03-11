@@ -9,15 +9,15 @@
 
 - I’m looking for advice on applying for front-end jobs, and easiest way to go about finding applications for them. [N/A (Future Projects Here)](N/A (Future Projects Link Here))
 
-- 👨‍💻 All of my projects are available at: (future portfolio webs [N/A (Future Project Portfolio Link Here)](N/A (Future Project Portfolio Link Here))
+- All of my projects are available at: (future portfolio webs [N/A (Future Project Portfolio Link Here)](N/A (Future Project Portfolio Link Here))
 
-- Feel free to ask me about my university experience and how i am doing my self studying aspiring to become a front end web developer. **N/A**
+- Feel free to ask me about my university experience and how i am doing my self studying aspiring to become a front end web developer.
 
 - Here is the easiest way to contact me: **danielcinemre2@gmail.com**
 
 - Know about my experiences and about my past education: [N/A (Future CV Link Here)](N/A (Future CV Link Here))
 
-- Fun fact **I have lived in various countries such as, England, Türkiye and now Scotland!**
+- Fun fact about me: **I have lived in various countries such as, England, Türkiye and now Scotland!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
