@@ -3,7 +3,7 @@
 
 - I’m currently studying Web Design & Development at university and have prevously studied Software Engineering and Cyber Security at lower levels.
 
-- I’m currently learning about all aspects of front-end slowly moving into the frameworks and libraries, i am also learning using various websites such as Udemy and FrontEnd Mentor to help me learn and practice with these languages and working on my own projects (these projects can be used in my portfoilo), the languages im learning are: **JavaScript, CSS, HTML5, slowly moving to TypeScript, React, React Native, and Vue.**
+- I’m currently learning about all aspects of front-end slowly moving into the frameworks and libraries, i am also learning using websites such as Udemy to help me learn and practice with these languages and working on my own projects (these projects can be used in my portfoilo), the languages im learning are: **JavaScript, CSS, HTML5, slowly moving to TypeScript, React, React Native, and Vue.**
 
 - I’m looking to collaborate on front end sided projects to help with my progress and give me valuable experience.
 
