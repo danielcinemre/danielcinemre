@@ -9,11 +9,7 @@
 
 - I’m looking for advice on applying for front-end jobs, and easiest way to go about finding applications for them, and any useful information about the industry.
 
-- All of my projects are available at: [N/A (Future Project Portfolio Link Here)](N/A (Future Project Portfolio Link Here))
-
 - Here is the easiest way to contact me: **danielcinemre2@gmail.com**
-
-- Know about my experiences and about my past education: [ CV ]( CV (https://daniel-cinemre-cv.tiiny.site))
 
 - Fun fact: **I have lived in various countries such as, England, Türkiye and now Scotland, also having dual nationality, (British and Turkish)**
 
