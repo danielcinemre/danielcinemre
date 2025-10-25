@@ -13,7 +13,7 @@
 
 - Here is the easiest way to contact me: **danielcinemre2@gmail.com**
 
-- Know about my experiences and about my past education: [N/A (Future CV Link Here)](N/A (Future CV Link Here))
+- Know about my experiences and about my past education: [N/A (Future CV Link Here)]( CV (https://daniel-cinemre-cv.tiiny.site))
 
 - Fun fact: **I have lived in various countries such as, England, Türkiye and now Scotland, also having dual nationality, (British and Turkish)**
 
